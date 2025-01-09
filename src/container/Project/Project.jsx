@@ -47,7 +47,7 @@ function Projects() {
                 href={project.link}
                 className="projects__button"
                 target="_blank"
-                rel="noopener noreferrer"
+                rel="noreferrer"
               >
                 View Project
               </a>

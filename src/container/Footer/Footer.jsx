@@ -16,7 +16,7 @@ function Footer() {
               href="https://github.com/deepak-mohanty-web"
               className="footer__social-link"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noreferrer"
             >
               <i className="fab fa-github"></i>
             </a>
@@ -26,7 +26,7 @@ function Footer() {
               href="https://www.linkedin.com/in/deepakmohanty12/"
               className="footer__social-link"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noreferrer"
             >
               <i className="fab fa-linkedin"></i>
             </a>
@@ -36,7 +36,7 @@ function Footer() {
               href="https://www.facebook.com/deepak.mohanty.3760430"
               className="footer__social-link"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noreferrer"
             >
               <i className="fab fa-facebook"></i>
             </a>
