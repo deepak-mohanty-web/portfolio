@@ -1,5 +1,8 @@
 import React from "react";
 import "./Project.scss";
+import photo1 from "../../assets/photo1.jpg";
+// import photo2 from "../../assets/photo2.jpg";
+// import photo3 from "../../assets/photo3.jpg";
 
 function Projects() {
   const projectData = [
@@ -7,7 +10,7 @@ function Projects() {
       title: "A.I Mock Interview",
       description:
         "An online platform where A.I take your interview and give you rewiews.",
-      image: "../../assets/photo1.jpg",
+      image: photo1,
       link: "https://github.com/deepak-mohanty-web/ai_interview.git",
     },
     {
